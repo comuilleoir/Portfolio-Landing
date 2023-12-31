@@ -1,4 +1,4 @@
-# Cian Ó Muilleoir's Machine Learning & Data Science Portfolio
+# Machine Learning & Data Science Portfolio
 
 Welcome to my portfolio, showcasing diverse machine learning projects and data science. Each sample project demonstrates my skills in data analysis, machine learning, and application across various domains.
 
